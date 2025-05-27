@@ -1,3 +1,5 @@
 .env
 venv/
 warehouse.db
+project_descriptipons.docx
+chatbotv3.py
